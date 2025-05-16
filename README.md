@@ -1,1 +1,1 @@
-Welcome to my coding portfolio! The following repository showcases a collection of my coding projects, built across different languages and domains. Each project reflects my growth as a software developer and my passion for solving real-world problems through code!
+[WIP] Welcome to my coding portfolio! The following repository showcases a collection of my coding projects, built across different languages and domains. Each project reflects my growth as a software developer and my passion for solving real-world problems through code!
